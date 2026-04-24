@@ -1,7 +1,7 @@
 # IAOSB NUMTAL — AGVDesktop
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/YOUR_GH_USERNAME/AGVDesktop/actions)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 A modern, polished WPF desktop application with Windows 11 Fluent styling, Mica/Acrylic backdrop support, runtime-generated application icon, minimize-to-tray, persistent settings and logging, and telemetry visualization — packaged and ready for distribution.
 
