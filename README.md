@@ -130,5 +130,3 @@ dotnet publish -c Release -r win-x64 --self-contained true -o publish\\win-x64
 If you want, I can now:
 - Commit this `README.md` and create a polished `.gitignore` and `.github/workflows/ci.yml` for you, or
 - Produce screenshot images and insert them into `docs/screenshots/` and update `README.md` with embedded images.
-
-Hangisini istersin? (Ben `Apache-2.0` önerdim; istersen LICENSE dosyasını otomatik ekleyeyim.)
